@@ -1,0 +1,22 @@
+Circuit: * Z:\home\roland\STM32_GateSignalGenerator\GateDriver\V3\Simulations\Spice\SlowCapSwitch.asc
+
+Unknown node in .ic card: "c1" -- ignoring
+Unknown node in .ic card: "c2" -- ignoring
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Jun 12 07:52:11 2024
+Total elapsed time: 0.113 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3312
+traniter = 3305
+tranpoints = 1358
+accept = 1285
+rejected = 73
+matrix size = 22
+fillins = 7
+solver = Normal
+Matrix Compiler1:      82 opcodes  0.6/[0.5]/0.7
+Matrix Compiler2: off

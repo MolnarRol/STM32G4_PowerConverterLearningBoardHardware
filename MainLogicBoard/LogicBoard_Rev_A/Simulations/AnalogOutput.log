@@ -1,0 +1,103 @@
+Circuit: * Z:\home\roland\STM32_GateSignalGenerator\LogicBoard V4\Simulacie\AnalogOutput.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+Gmin = 10.7374
+vernier = 0.5
+vernier = 0.666667
+Gmin = 3.75229
+vernier = 0.888888
+vernier = 0.444444
+Gmin = 0.953013
+vernier = 0.222222
+vernier = 0.111111
+vernier = 0.0555555
+vernier = 0.0277778
+vernier = 0.0138889
+vernier = 0.00694444
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.000868055
+Gmin = 1.0589
+vernier = 0.000434028
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.378788%
+Source Step = 0.852273%
+Source Step = 1.32576%
+Source Step = 1.79924%
+Source Step = 2.27273%
+vernier = 0.0234375
+Source Step = 2.91193%
+Source Step = 3.62216%
+Source Step = 4.33239%
+Source Step = 5.04261%
+Source Step = 5.75284%
+vernier = 0.0351563
+Source Step = 6.67614%
+Source Step = 7.74148%
+Source Step = 8.80682%
+Source Step = 9.87216%
+Source Step = 10.9375%
+vernier = 0.0527344
+Source Step = 12.2692%
+Source Step = 13.8672%
+Source Step = 15.4652%
+Source Step = 17.0632%
+Source Step = 18.6612%
+vernier = 0.0791016
+Source Step = 20.5788%
+Source Step = 22.9759%
+Source Step = 25.3729%
+Source Step = 27.7699%
+Source Step = 30.1669%
+vernier = 0.118652
+Source Step = 32.9235%
+Source Step = 36.519%
+Source Step = 40.1145%
+Source Step = 43.71%
+Source Step = 47.3056%
+vernier = 0.177979
+Source Step = 51.2607%
+Source Step = 56.6539%
+Source Step = 62.0472%
+Source Step = 67.4405%
+Source Step = 72.8338%
+vernier = 0.266968
+Source Step = 78.4968%
+Source Step = 83.3634%
+vernier = 0.00104284
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 96.9815%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 926.352 ms.
+
+Date: Wed Oct 23 16:58:15 2024
+Total elapsed time: 4.038 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 38029
+traniter = 3918
+tranpoints = 1318
+accept = 1291
+rejected = 703
+matrix size = 339
+fillins = 870
+solver = Normal
+Thread vector: 15.1/7.8[8] 2.9/2.4[4] 6.3/3.2[8] 1.0/1.7[1]  2592/500
+Matrix Compiler1: 72.72 KB object code size  12.7/4.9/[3.4]
+Matrix Compiler2: 44.17 KB object code size  3.9/5.0/[2.9]
+

@@ -1,0 +1,22 @@
+Circuit: * Z:\home\roland\STM32_GateSignalGenerator\LogicBoard V4\Simulacie\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 20 12:31:11 2024
+Total elapsed time: 3.776 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 111259
+traniter = 111254
+tranpoints = 30606
+accept = 22804
+rejected = 7802
+matrix size = 370
+fillins = 464
+solver = Normal
+Thread vector: 34.2/18.9[8] 7.8/3.6[8] 9.5/3.1[8] 2.8/1.8[4]  2592/500
+Matrix Compiler1: 45.64 KB object code size  17.9/12.7/[6.1]
+Matrix Compiler2: 39.27 KB object code size  4.9/8.6/[4.8]
+
